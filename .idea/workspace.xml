@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/MonkeyScript/jingdong" line="24" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f66f51e0-f14f-45c0-a601-711f868aac58" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Smart" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1770">
+              <caret line="118" column="14" selection-start-line="118" selection-start-column="14" selection-end-line="118" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Config/UiAutomator_config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2345">
+              <caret line="409" column="53" selection-start-line="409" selection-start-column="53" selection-end-line="409" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>self.logger.info(' -&gt; ' ,  e)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>logger.info</replace>
+      <replace>self.logger.info</replace>
+      <replace>self.logger.info(' -&gt; Not Found ....')</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Conifg/__init__.py" />
+        <option value="$PROJECT_DIR$/Base/Monkey_config.py" />
+        <option value="$PROJECT_DIR$/App/appium.py" />
+        <option value="$PROJECT_DIR$/kill5037.bat" />
+        <option value="$PROJECT_DIR$/Conifg/appium_config.py" />
+        <option value="$PROJECT_DIR$/App/App.py" />
+        <option value="$PROJECT_DIR$/log/306c9b91_mem.log" />
+        <option value="$PROJECT_DIR$/Conifg/Monkey_config.py" />
+        <option value="$PROJECT_DIR$/Conifg/File_config.py" />
+        <option value="$PROJECT_DIR$/Base/DeviceInfo.py" />
+        <option value="$PROJECT_DIR$/Conifg/Setting.py" />
+        <option value="$PROJECT_DIR$/Conifg/DeviceInfo.py" />
+        <option value="$PROJECT_DIR$/WriteRreport.py" />
+        <option value="$PROJECT_DIR$/info_log/306c9b91_com.miui.contentcatcher_cpu.info_log" />
+        <option value="$PROJECT_DIR$/info_log/306c9b91_com.miui.systemAdSolution_cpu.info_log" />
+        <option value="$PROJECT_DIR$/mysql.md" />
+        <option value="$PROJECT_DIR$/Config/mysql_config'.py" />
+        <option value="$PROJECT_DIR$/Config/mysql_config.py" />
+        <option value="$PROJECT_DIR$/u2.md" />
+        <option value="$PROJECT_DIR$/_test.py" />
+        <option value="$PROJECT_DIR$/MonkeyScript.md" />
+        <option value="$PROJECT_DIR$/Ms" />
+        <option value="$PROJECT_DIR$/MonkeyScript/toutiaospeed" />
+        <option value="$PROJECT_DIR$/MonkeyScript/baidu" />
+        <option value="$PROJECT_DIR$/info_log/log_red.py" />
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/MonkeyScript/jingdong" />
+        <option value="$PROJECT_DIR$/info_log/log_read.py" />
+        <option value="$PROJECT_DIR$/Config/DeviceInfo.py" />
+        <option value="$PROJECT_DIR$/monkey_log/306c9b91_com.baidu.searchbox.log" />
+        <option value="$PROJECT_DIR$/info_log/306c9b91com.miui.contentcatcher_mem.log" />
+        <option value="$PROJECT_DIR$/info_log/306c9b91_com.miui.contentcatcher_cpu.log" />
+        <option value="$PROJECT_DIR$/info_log/306c9b91_com.miui.systemAdSolution_cpu.log" />
+        <option value="$PROJECT_DIR$/info_log/306c9b91com.miui.systemAdSolution_mem.log" />
+        <option value="$PROJECT_DIR$/Config/Setting.py" />
+        <option value="$PROJECT_DIR$/Config/File_config.py" />
+        <option value="$PROJECT_DIR$/Config/monkey_log/SmartTest.log" />
+        <option value="$PROJECT_DIR$/Config/log_config.py" />
+        <option value="$PROJECT_DIR$/monkey_log/SmartTest.log" />
+        <option value="$PROJECT_DIR$/Config/UiAutomator_config.py" />
+        <option value="$PROJECT_DIR$/Config/Monkey_config.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1987" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Smart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Smart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Smart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Smart" type="462c0819:PsiDirectoryNode" />
+              <item name="Config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="python.debugger.dataview.autoresize" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/MonkeyScript" />
+      <recent name="$PROJECT_DIR$/Conifg" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Config" />
+      <recent name="$PROJECT_DIR$/Base" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Conifg" />
+      <recent name="$PROJECT_DIR$/App" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="DeviceInfo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Smart" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Config/DeviceInfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="File_config" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Smart" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Config/File_config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Smart" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="log_red" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Smart" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/info_log" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/info_log/log_read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Smart" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.DeviceInfo" />
+      <item itemvalue="Python.log_red" />
+      <item itemvalue="Python.File_config" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.File_config" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.DeviceInfo" />
+        <item itemvalue="Python.log_red" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f66f51e0-f14f-45c0-a601-711f868aac58" name="Default Changelist" comment="" />
+      <created>1559703794779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559703794779</updated>
+      <workItem from="1559703795979" duration="43190000" />
+      <workItem from="1560134778889" duration="26578000" />
+      <workItem from="1560222846613" duration="9939000" />
+      <workItem from="1560242661759" duration="112779000" />
+      <workItem from="1560854652350" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="192502000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+      <is-preview-enabled value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1987" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.2770683" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32930845" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49750137" weight="0.35016465" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956093" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Favorites" order="7" sideWeight="0.50083286" weight="0.47969264" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32930845" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49972236" weight="0.16465423" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5024986" side_tool="true" weight="0.80680573" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.49750137" visible="true" weight="0.40724477" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49972236" weight="0.32821077" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.37590227" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32981676" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.27318156" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32930845" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49805662" visible="true" weight="0.3622393" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956093" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Favorites" order="7" sideWeight="0.50083286" weight="0.47969264" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32930845" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49972236" weight="0.16465423" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5024986" side_tool="true" weight="0.32821077" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49750137" weight="0.32821077" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49972236" weight="0.32821077" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.37590227" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Smart$Setting.coverage" NAME="Setting Coverage Results" MODIFIED="1560239555542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Config" />
+    <SUITE FILE_PATH="coverage/Smart$File_config.coverage" NAME="File_config Coverage Results" MODIFIED="1560838495028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Config" />
+    <SUITE FILE_PATH="coverage/Smart$_test.coverage" NAME="_test Coverage Results" MODIFIED="1560409070681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Smart$App.coverage" NAME="App Coverage Results" MODIFIED="1559727114522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/App" />
+    <SUITE FILE_PATH="coverage/Smart$log_red.coverage" NAME="log_red Coverage Results" MODIFIED="1560506682252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/info_log" />
+    <SUITE FILE_PATH="coverage/Smart$demo.coverage" NAME="demo Coverage Results" MODIFIED="1560758083674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Smart$main.coverage" NAME="main Coverage Results" MODIFIED="1560853754723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Smart$DeviceInfo__1_.coverage" NAME="DeviceInfo (1) Coverage Results" MODIFIED="1560239379820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Config" />
+    <SUITE FILE_PATH="coverage/Smart$DeviceInfo.coverage" NAME="DeviceInfo Coverage Results" MODIFIED="1560736096617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Config" />
+    <SUITE FILE_PATH="coverage/Smart$BaseReport.coverage" NAME="BaseReport Coverage Results" MODIFIED="1560155262542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Base" />
+    <SUITE FILE_PATH="coverage/Smart$WriteRreport.coverage" NAME="WriteRreport Coverage Results" MODIFIED="1560236639436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Smart$mysql_config.coverage" NAME="mysql_config Coverage Results" MODIFIED="1560248132215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Config" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/systemAdSolution_mem.jpg" />
+    <entry file="file://$PROJECT_DIR$/monkey_log/306c9b91com.suning.mobile.ebuy.log" />
+    <entry file="file://$PROJECT_DIR$/monkey_log/306c9b91com.ss.android.article.news.log" />
+    <entry file="file://$PROJECT_DIR$/img/contentcatcher_mem.jpg" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/181351525/sys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="168" column="4" lean-forward="true" selection-start-line="168" selection-start-column="4" selection-end-line="169" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/threading.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675">
+          <folding>
+            <element signature="e#23#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/multiprocessing/queues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-365">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/connection.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/multiprocessing/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-616">
+          <caret line="347" column="6" selection-start-line="347" selection-start-column="6" selection-end-line="347" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/multiprocessing/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="12" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+          <folding>
+            <element signature="e#29#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="1357" lean-forward="true" selection-start-line="1357" selection-end-line="1357" />
+          <folding>
+            <element signature="e#67#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/u2.md" />
+    <entry file="file://$PROJECT_DIR$/img/systemAdSolution_cpu.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/com.miui.contentcatcher.jpg" />
+    <entry file="file://$PROJECT_DIR$/MonkeyScript.md" />
+    <entry file="file://$PROJECT_DIR$/monkey_log/306c9b91com.baidu.searchbox.log" />
+    <entry file="file://$PROJECT_DIR$/WriteRreport.py" />
+    <entry file="file://$PROJECT_DIR$/MonkeyScript/Ms">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/com.miui.contentcatcher_mem_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/MonkeyScript/toutiao" />
+    <entry file="file://$PROJECT_DIR$/img/demo_com.miui.contentcatcher_mem.jpg" />
+    <entry file="file://$PROJECT_DIR$/MonkeyScript/toutiaospeed" />
+    <entry file="file://$PROJECT_DIR$/img/com.miui.contentcatcher_mem.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/com.miui.contentcatcher_cpu.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/com.miui.systemAdSolution_mem.jpg" />
+    <entry file="file://$PROJECT_DIR$/_test.py" />
+    <entry file="file://$PROJECT_DIR$/MonkeyScript/jingdong">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monkey_log/306c9b91_com.Ms.searchbox.log" />
+    <entry file="file://$PROJECT_DIR$/info_log/log_read.py" />
+    <entry file="file://$PROJECT_DIR$/Config/test.txt" />
+    <entry file="file://$PROJECT_DIR$/Config/de.txt" />
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/all2.log" />
+    <entry file="file://$PROJECT_DIR$/Config/DeviceInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660">
+          <caret line="95" column="23" lean-forward="true" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/File_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monkey_log/306c9b91_com.ss.android.article.news.log" />
+    <entry file="file://$PROJECT_DIR$/Config/monkey_log/SmartTest.log" />
+    <entry file="file://$PROJECT_DIR$/Config/log_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="e#20#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/Setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monkey_log/306c9b91_com.baidu.searchbox.log" />
+    <entry file="file://$PROJECT_DIR$/info_log/306c9b91com.miui.systemAdSolution_mem.log" />
+    <entry file="file://$PROJECT_DIR$/info_log/306c9b91com.miui.contentcatcher_mem.log" />
+    <entry file="file://$PROJECT_DIR$/info_log/306c9b91_com.miui.contentcatcher_cpu.log" />
+    <entry file="file://$PROJECT_DIR$/Config/Monkey_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="27" column="69" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monkey_log/306c9b91_com.taobao.taobao.log" />
+    <entry file="file://$PROJECT_DIR$/monkey_log/SmartTest.log" />
+    <entry file="file://$PROJECT_DIR$/monkey_log/306c9b91_com.xunmeng.pinduoduo.log" />
+    <entry file="file://$PROJECT_DIR$/info_log/306c9b91_com.miui.systemAdSolution_cpu.log" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="118" column="14" selection-start-line="118" selection-start-column="14" selection-end-line="118" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/UiAutomator_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2345">
+          <caret line="409" column="53" selection-start-line="409" selection-start-column="53" selection-end-line="409" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
