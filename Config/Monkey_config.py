@@ -1,4 +1,5 @@
 import logging.config
+import os
 
 import subprocess
 import time
@@ -19,14 +20,17 @@ class Monkey:
         OperateFile(self.path).mkdir_file()
         if self.app_name == 'toutiaospeed' or self.app_name == 'toutiao':
 
-            cmd = 'adb -s {} shell monkey -p {}  -f /sdcard/script/Ms   --throttle 500 --ignore-timeouts --ignore-crashes   --monitor-native-crashes -v -v -v 30 > {}'.format(
+            cmd = 'adb -s {} shell monkey -p {}  -f /sdcard/script/Ms   --ignore-timeouts --ignore-crashes   --monitor-native-crashes -v -v -v 300 > {}'.format(
+                self.devices, self.package_name, self.path)
+        elif self.app_name == 'baidu':
+            cmd = 'adb -s {} shell monkey -p {}  -f /sdcard/script/baidu   --ignore-timeouts --ignore-crashes   --monitor-native-crashes -v -v -v 200 > {}'.format(
                 self.devices, self.package_name, self.path)
         else:
-            cmd = 'adb -s {} shell monkey -p {}  --throttle 500  --ignore-timeouts --ignore-crashes   --monitor-native-crashes -v -v -v {} > {}'.format(
+            cmd = 'adb -s {} shell monkey -p {}  --throttle 1000  --ignore-timeouts --ignore-crashes   --monitor-native-crashes -v -v -v {} > {}'.format(
                 self.devices, self.package_name, self.num, self.path
             )
         self.logger.info(f'Running Monkey On {self.package_name} ....')
-        subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        os.popen(cmd)
 
     def __del__(self):
         while True:

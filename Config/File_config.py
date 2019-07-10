@@ -67,4 +67,6 @@ class OperateFile:
         else:
             self.logger.info("文件不存在")
 
-
+#
+# if __name__ == '__main__':
+#     OperateFile(PATH('test.txt')).write_txt(123)

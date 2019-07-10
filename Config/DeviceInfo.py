@@ -3,6 +3,8 @@ import re
 import subprocess
 from wsgiref.validate import validator
 
+from Config.Setting import CONTENT_CATCHER
+
 
 class DeviceInfo:
     '''
@@ -89,10 +91,8 @@ class DeviceInfo:
         me = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE).stdout.readlines()
         mem = ''.join([x.decode() for x in me])
         pattern = re.compile(r'TOTAL\s+\d+')
-        mem_size = float(pattern.findall(mem)[0].split(' ')[-1]) / 1024
-        # mem_size =float('%.2f'%mem_size)
-        # print('进程名称：%s' % package_name)
-        # print("内存占用：%s " % mem_size)
+        mem_size = round((float(pattern.findall(mem)[0].split(' ')[-1]) / 1024), 2)
+        # print(mem_size,type(mem_size))
         return mem_size
 
     def get_battery(self, device_id):
@@ -125,9 +125,8 @@ class DeviceInfo:
         try:
             cpu_info = float(cpu_info[0].decode().split(' ')[2].replace('%', ''))
             # print('进程名称:%s' % package_name)
-            # print('CPU佔用：%s' % cpu_info)
             return cpu_info
-        except IndexError as e:
+        except Exception as e:
             cpu_info = 0
             return cpu_info
 
@@ -256,23 +255,6 @@ class DeviceInfo:
         os.popen(cmd)
 
 
-# if __name__ == '__main__':
-    # DeviceInfo().getDeviceId()
-    #     # DeviceInfo().get_devices()
-    #     # 306c9b91
-    #     DeviceInfo().get_Mobile_Type('306c9b91')
-    #     # DeviceInfo().getMiuiVersion('306c9b91')
-    #     DeviceInfo().get_current_package_name('306c9b91')
-    #     # DeviceInfo().get_meminfo('306c9b91','com.ss.android.article.news')
-    #     # DeviceInfo().get_battery('306c9b91')
-    #     DeviceInfo().get_cupinfo('306c9b91', 'com.miui.contentcatcher')
-    #     # DeviceInfo().get_fps('306c9b91', 'com.ss.android.article.news')
-    #     # DeviceInfo().get_pid('306c9b91', 'com.ss.android.article.news')
-    #     # DeviceInfo().get_app_pix('306c9b91')
-    #     # DeviceInfo().get_CPU_kel('306c9b91')
-    #     # DeviceInfo().get_men_total('306c9b91')
-    #     DeviceInfo().get_app_versionName('306c9b91','com.ss.android.article.news')
-    #     DeviceInfo().kill_app('306c9b91','com.Ms.searchbox')
-    # if __name__ == '__main__':
-    # DeviceInfo().get_cupinfo('306c9b91', 'com.jingdong.app.mall')
-    # DeviceInfo().get_meminfo('306c9b91', 'com.jingdong.app.mall')
+if __name__ == '__main__':
+    pass
+# DeviceInfo().get_meminfo('306c9b91', 'com.baidu.searchbox')

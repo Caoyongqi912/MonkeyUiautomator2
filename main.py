@@ -10,19 +10,21 @@ from Config.UiAutomator_config import Ui
 import logging.config
 from Config.log_config import LOGGING_DIC
 
-
 PATH = lambda p: os.path.abspath(
     os.path.join(os.path.dirname(__file__), p)
 )
 
 
+class Main(object):
+    def __init__(self, num):
 
+        _cmd = 'python -m uiautomator2 init'
+        os.popen(_cmd)
+        time.sleep(5)
 
-class Main:
-    def __init__(self, num, monkey_script):
         logging.config.dictConfig(LOGGING_DIC)  # 导入上面定义的配置
         self.logger = logging.getLogger(__name__)  # 生成一个log实例
-        self.monkey_script = monkey_script
+
         self.contentcatcher_mem = []
         self.systemAdSolution_mem = []
         self.catcher_cpu = []
@@ -57,21 +59,22 @@ class Main:
 
             mem = DeviceInfo().get_meminfo(devices, CONTENT_CATCHER)
             self.contentcatcher_mem.append(mem)
-            OperateFile(PATH("./info_log/" + devices + CONTENT_CATCHER + "_mem.log")).write_txt(str(mem))
+            OperateFile(PATH("./info_log/" + devices + '_' + CONTENT_CATCHER + "_mem.log")).write_txt(str(mem))
             _mem = DeviceInfo().get_meminfo(devices, SYSTEM_AD_SOLUTION)
             self.systemAdSolution_mem.append(_mem)
 
-            OperateFile(PATH("./info_log/" + devices + SYSTEM_AD_SOLUTION + "_mem.log")).write_txt(str(_mem))
+            OperateFile(PATH("./info_log/" + devices + '_' + SYSTEM_AD_SOLUTION + "_mem.log")).write_txt(str(_mem))
             time.sleep(5)
             s += 1
             self.logger.info('---------------get info %s 次------------------' % s)
             if self.flag == False:
+                self.logger.info('测试结束~')
                 break
         time.sleep(5)
         self.plt_write()
 
     def apps_monkey(self, devices):
-        self.adb_push_script(devices, self.monkey_script)
+        self.adb_push_script(devices)
         time.sleep(2)
         for name, value in DICT.items():
             Ui(name, devices, value[0])
@@ -80,34 +83,47 @@ class Main:
             Monkey(devices, name, value[0], self.num, PATH("./monkey_log/" + devices + '_' + value[0] + ".log"))
         self.flag = False
 
-    def adb_push_script(self, devices, name):
+    def adb_push_script(self, devices):
         try:
-            _cmd = f' adb -s %s push {PATH("MonkeyScript/%s")}   /sdcard/script' % (devices, name)
+            _cmd = f' adb -s %s push {PATH("MonkeyScript/Ms")}   /sdcard/script' % devices
             os.popen(_cmd)
             self.logger.info(f'{_cmd} Done!')
+
         except Exception as e:
-            raise (f'{name} : MonkeyScript push ERROR  ')
+            print(' MonkeyScript push ERROR  ')
+        time.sleep(1)
+        try:
+            _cmd = f' adb -s %s push {PATH("MonkeyScript/baidu")}   /sdcard/script' % devices
+            os.popen(_cmd)
+            self.logger.info(f'{_cmd} Done!')
+
+        except Exception as e:
+            print(' MonkeyScript push ERROR  ')
 
     def plt_write(self):
 
-        plt.title("contentcatcher_mem")
+        plt.figure(figsize=(30, 16))
+        plt.title("ContentCatcher_mem")
         plt.ylabel("mem(mb)")
         plt.plot(self.contentcatcher_mem)
         plt.savefig(PATH('img/contentcatcher_mem.jpg'))
         plt.show()
 
+        plt.figure(figsize=(30, 16))
         plt.title("Meminfo")
         plt.ylabel("mem(mb)")
         plt.plot(self.systemAdSolution_mem)
         plt.savefig(PATH('img/systemAdSolution_mem.jpg'))
         plt.show()
 
+        plt.figure(figsize=(30, 16))
         plt.title("catcher_cpu")
         plt.ylabel("Cpu(%)")
         plt.plot(self.catcher_cpu)
         plt.savefig(PATH('img/catcher_cpu.jpg'))
         plt.show()
 
+        plt.figure(figsize=(30, 16))
         plt.title("systemAdSolution_cpu")
         plt.ylabel("Cpu(%)")
         plt.plot(self.catcher_cpu)
@@ -116,4 +132,4 @@ class Main:
 
 
 if __name__ == '__main__':
-    Main(18000, "Ms")
+    Main(10000)
